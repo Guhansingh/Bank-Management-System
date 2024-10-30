@@ -1,9 +1,6 @@
 # Bank-Management-System
 
-Here's a `README.md` file for your bank management system program to use on GitHub:
 
-```markdown
-# Bank Management System
 
 This project is a simple bank management system created using Python and MySQL. It provides functionalities to manage customer accounts, including opening new accounts, depositing funds, withdrawing funds, checking balance, displaying customer details, and closing accounts.
 
